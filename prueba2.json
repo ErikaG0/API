@@ -1,0 +1,106 @@
+{
+    "id": 76,
+    "name": "Leaf's Anbu",
+    "characters": [
+      {
+        "id": 206,
+        "name": "Dōshin",
+        "images": [
+          "https://static.wikia.nocookie.net/naruto/images/d/da/Doshin.png"
+        ],
+        "debut": {
+          "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+          "appearsIn": "Game"
+        },
+        "jutsu": [
+          "Demonic Illusion: False Surroundings Technique",
+          "Forbidden Summoning Technique: Fire Rats Cometh",
+          "Forbidden Technique: Mud Golem"
+        ],
+        "natureType": [
+          "Earth Release",
+          "Yin Release"
+        ],
+        "personal": {
+          "sex": "Male",
+          "status": "Deceased",
+          "classification": "Missing-nin",
+          "affiliation": "Konohagakure",
+          "team": "Leaf's Anbu"
+        },
+        "rank": {
+          "ninjaRank": {
+            "Part II": "Anbu"
+          }
+        },
+        "voiceActors": {
+          "japanese": "Daisuke Sakaguchi",
+          "english": "Roger Craig Smith"
+        }
+      },
+      {
+        "id": 360,
+        "name": "Hakui",
+        "images": [
+          "https://static.wikia.nocookie.net/naruto/images/a/a7/Hakui.png"
+        ],
+        "debut": {
+          "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+          "appearsIn": "Game"
+        },
+        "personal": {
+          "sex": "Male",
+          "status": "Deceased",
+          "classification": "Missing-nin",
+          "affiliation": "Konohagakure",
+          "team": "Leaf's Anbu"
+        },
+        "rank": {
+          "ninjaRank": {
+            "Part II": "Anbu"
+          }
+        },
+        "voiceActors": {
+          "japanese": "Kazuyuki Okitsu",
+          "english": "Sam Riegel"
+        },
+        "白医Hakui": {}
+      },
+      {
+        "id": 1098,
+        "name": "Shinga",
+        "images": [
+          "https://static.wikia.nocookie.net/naruto/images/d/dd/Shinga.jpg"
+        ],
+        "debut": {
+          "game": "Naruto Shippūden: Ultimate Ninja Heroes 3",
+          "appearsIn": "Game"
+        },
+        "jutsu": [
+          "Jibakugan"
+        ],
+        "natureType": [
+          "Yin Release"
+        ],
+        "personal": {
+          "sex": "Male",
+          "status": "Deceased",
+          "classification": "Missing-nin",
+          "affiliation": "Konohagakure",
+          "team": "Leaf's Anbu"
+        },
+        "rank": {
+          "ninjaRank": {
+            "Part II": "Anbu"
+          }
+        },
+        "tools": [
+          "Demon Shinki"
+        ],
+        "voiceActors": {
+          "japanese": "Keiji Fujiwara",
+          "english": "Kyle Hebert"
+        }
+      }
+    ]
+  }

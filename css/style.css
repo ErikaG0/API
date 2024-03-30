@@ -1,0 +1,116 @@
+@font-face {
+  font-family: 'japo';
+  src: url('../font/onsen.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'text';
+  src: url('../font/roboto.ttf') format('truetype');
+}
+
+.col-3 {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+#searchInput {
+  margin-top: 80px;
+  margin-bottom: 30px;
+  border-bottom: 0.5px solid rgb(126, 126, 126);
+  border-top: 0.5px solid rgb(126, 126, 126);
+  border-left: 0.5px solid rgb(126, 126, 126);
+  border-right: none;
+}
+
+#search {
+  margin-top: 80px;
+  border-top: 0.5px solid rgb(126, 126, 126);
+  border-bottom: 0.5px solid rgb(126, 126, 126);
+  margin-bottom: 30px;
+}
+
+#search:hover {
+  background-color: rgb(12, 12, 12);
+  border: 0.5px solid rgb(126, 126, 126);
+}
+
+#search:hover {
+  background-color: rgb(2, 2, 2);
+  border: 0.5px solid rgb(0, 0, 0);
+  color: white;
+}
+
+#activar {
+  margin-top: 80px;
+  border-top: 0.5px solid rgb(126, 126, 126);
+  border-bottom: 0.5px solid rgb(126, 126, 126);
+  border-right: 0.5px solid rgb(126, 126, 126);
+  margin-bottom: 30px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#activar:hover {
+  background-color: #dc3545;
+  border: 0.5px solid #dc3545;
+  color: white
+}
+
+.pInfo {
+font-family: "text";
+  margin-top: 0.2em;
+  margin-bottom: -0.1em;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+.pInfoN {
+  font-family: "japo";
+  font-size: 20px;
+  border-bottom: 0.5px solid rgb(194, 194, 194);
+}
+
+#cardT{
+background-color: white;
+text-transform: uppercase;
+border: none;
+font-family: "text";
+}
+#textcardT{
+  padding-bottom: 2px;
+  border-bottom: 0.3px solid rgb(194, 194, 194);
+}
+
+#contentCard{
+  border-bottom: 0.3px solid rgb(194, 194, 194);
+  background: white;
+}
+#headerCard{
+  background: white;
+  padding-bottom: 20px;
+}
+
+ #contenTeam{
+padding-left: 30px;
+ }
+
+
+ #teamT{
+  border-bottom: 0.3px solid rgb(194, 194, 194);
+ }
+
+#moreInfotitle{
+  border-bottom: 0.3px solid rgb(194, 194, 194);
+  text-transform: uppercase;
+margin-top: 10px;
+font-family: "text";
+}
+div.col-4 img[src=""] {
+  display: none;
+}
+
+.img-hidden {
+  display: none;
+}
+
+
