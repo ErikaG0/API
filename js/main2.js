@@ -25,7 +25,7 @@ $("#activar").click(function () {
 
 artyom.addCommands({
     indexes: [""],
-    action: function (i) {
+    action: function () {
     }
 });
 
