@@ -145,7 +145,24 @@ $(document).ready(function () {
             type: "GET",
             contentType: "application/json",
             success: function (data) {
+                $("#alertM").addClass("img-hidden");
                 mostrarInfo(data)
+            },
+            error: function(xhr, status, error) {
+                if(xhr.status == 404) {
+                   // console.log("Error", status)
+                } else {
+                      $("#alertM").removeClass("img-hidden");
+                   $("#alertM").html(
+                    `
+                    <div class="alert alert-danger" role="alert">
+    <i class="fas fa-exclamation-triangle"></i>
+         Error 404  No encontrado
+  </div>
+                    `
+
+                   )
+                }
             }
         })
     })
